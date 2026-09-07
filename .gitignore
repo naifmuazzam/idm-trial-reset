@@ -1,0 +1,12 @@
+# Local-only + build artifacts — jangan push
+patch.md
+*.bak
+*.log
+idm-dm-before.reg
+idm-clsid-before.reg
+
+# Temp / OS
+~$*
+*.tmp
+Thumbs.db
+Desktop.ini
